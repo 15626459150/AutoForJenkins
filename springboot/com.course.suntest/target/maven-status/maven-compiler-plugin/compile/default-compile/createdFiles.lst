@@ -1,0 +1,12 @@
+com\course\model\GetUserList.class
+com\course\config\TestConfig.class
+com\course\model\Login.class
+com\course\cases\LoginCase.class
+com\course\cases\GetUserInfoCase.class
+com\course\model\AddUser.class
+com\course\utils\DataBaseUtil.class
+com\course\model\User.class
+com\course\cases\GetUserListCase.class
+com\course\cases\AddUserCase.class
+com\course\model\GetUserInfo.class
+com\course\utils\Configfile.class

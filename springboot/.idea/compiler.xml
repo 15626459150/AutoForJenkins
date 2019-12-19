@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="mybatis" />
+        <module name="suntest" />
+        <module name="immoc" />
+        <module name="IntefaceDev" />
+        <module name="usermanage" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="immoc" target="8" />
+      <module name="IntefaceDev" target="1.8" />
+      <module name="javarequest" target="8" />
+      <module name="jmeterdemo" target="1.5" />
+      <module name="mybatis" target="8" />
+      <module name="selenium" target="1.5" />
+      <module name="seleniumtest" target="1.5" />
+      <module name="springboot" target="8" />
+      <module name="suntest" target="8" />
+      <module name="usermanage" target="8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="IntefaceDev" options="-parameters -extdirs C:\Users\15626\Desktop\IdeaProjects\springboot\IntefaceDev/lib" />
+      <module name="immoc" options="-parameters" />
+      <module name="javarequest" options="-parameters" />
+      <module name="mybatis" options="-parameters" />
+      <module name="springboot" options="" />
+      <module name="suntest" options="-parameters" />
+      <module name="usermanage" options="-parameters" />
+    </option>
+  </component>
+</project>

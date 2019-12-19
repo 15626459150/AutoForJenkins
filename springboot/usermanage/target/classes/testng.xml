@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<suite name="user management">
+    <test name="test">
+        <classes>
+        <class name="com.course.cases.LoginTest">
+            <methods>
+                <include name="loginTrue"/>
+                <include name="loginFail"/>
+            </methods>
+        </class>
+        <class name="com.course.cases.AddUserTest">
+            <methods>
+                <include name="addUser"></include>
+            </methods>
+        </class>
+
+        <class name="com.course.cases.GetUserInfoTest">
+            <methods>
+                <include name="getUserInfo"></include>
+            </methods>
+        </class>
+        <class name="com.course.cases.GetUserListTest">
+            <methods>
+                <include name="getUserList"></include>
+            </methods>
+        </class>
+        <class name="com.course.cases.UpdateUserInfoTest">
+            <methods>
+                <include name="updateUserInfo"></include>
+            </methods>
+        </class>
+
+        </classes>
+
+
+    </test>
+    <listeners>
+        <listener class-name="com.course.config.ExtentTestNGIReporterListener"></listener>
+    </listeners>
+</suite>

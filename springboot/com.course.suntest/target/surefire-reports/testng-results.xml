@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="suite" duration-ms="3462" started-at="2019-12-19T08:44:16Z" finished-at="2019-12-19T08:44:19Z">
+    <groups>
+    </groups>
+    <test name="test" duration-ms="3462" started-at="2019-12-19T08:44:16Z" finished-at="2019-12-19T08:44:19Z">
+      <class name="com.course.cases.GetUserInfoCase">
+        <test-method status="PASS" signature="GetUserInfoCase()[pri:0, instance:com.course.cases.GetUserInfoCase@62043840]" name="GetUserInfoCase" duration-ms="109" started-at="2019-12-19T16:44:19Z" finished-at="2019-12-19T16:44:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GetUserInfoCase -->
+      </class> <!-- com.course.cases.GetUserInfoCase -->
+      <class name="com.course.cases.AddUserCase">
+        <test-method status="PASS" signature="addUser()[pri:0, instance:com.course.cases.AddUserCase@246ae04d]" name="addUser" duration-ms="125" started-at="2019-12-19T16:44:18Z" finished-at="2019-12-19T16:44:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addUser -->
+      </class> <!-- com.course.cases.AddUserCase -->
+      <class name="com.course.cases.GetUserListCase">
+        <test-method status="PASS" signature="getUserListCase()[pri:0, instance:com.course.cases.GetUserListCase@5315b42e]" name="getUserListCase" duration-ms="258" started-at="2019-12-19T16:44:19Z" finished-at="2019-12-19T16:44:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getUserListCase -->
+      </class> <!-- com.course.cases.GetUserListCase -->
+      <class name="com.course.cases.LoginCase">
+        <test-method status="PASS" signature="BeforeTest()[pri:0, instance:com.course.cases.LoginCase@2c6a3f77]" name="BeforeTest" is-config="true" duration-ms="59" started-at="2019-12-19T16:44:16Z" finished-at="2019-12-19T16:44:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeTest -->
+        <test-method status="PASS" signature="LoginFail()[pri:0, instance:com.course.cases.LoginCase@2c6a3f77]" name="LoginFail" duration-ms="2736" started-at="2019-12-19T16:44:16Z" finished-at="2019-12-19T16:44:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginFail -->
+        <test-method status="PASS" signature="LoginSuccess()[pri:0, instance:com.course.cases.LoginCase@2c6a3f77]" name="LoginSuccess" duration-ms="141" started-at="2019-12-19T16:44:18Z" finished-at="2019-12-19T16:44:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginSuccess -->
+      </class> <!-- com.course.cases.LoginCase -->
+    </test> <!-- test -->
+  </suite> <!-- suite -->
+</testng-results>

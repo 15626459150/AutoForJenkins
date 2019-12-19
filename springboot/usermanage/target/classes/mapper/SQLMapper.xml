@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.course.model">
+    <select id="login" parameterType="Integer" resultType="com.course.model.Login">
+        select * from login where id=#{id};
+    </select>
+    <select id="adduser" parameterType="Integer" resultType="com.course.model.AddUser">
+        select * from adduser where id=#{id};
+    </select>
+    <select id="getuserinfo" parameterType="Integer" resultType="com.course.model.GetUserInfo">
+        select * from getuserinfo where id=#{id};
+    </select>
+    <select id="getuserlist" parameterType="Integer" resultType="com.course.model.GetUserList">
+        select * from getuserlist where id=#{id};
+    </select>
+    <select id="updateuserinfo" parameterType="Integer" resultType="com.course.model.UpdateUserInfo">
+        select * from updateuserinfo where id=#{id};
+    </select>
+
+    <select id="getUserList" parameterType="com.course.model.GetUserInfo" resultType="com.course.model.User">
+        select * from users
+        <trim prefix="WHERE" prefixOverrides="and">
+            <if test="null !=username and ''!=username">
+                AND username=#{username}
+            </if>
+            <if test="null !=sex and ''!=sex">
+                AND sex=#{sex}
+            </if>
+            <if test="null !=age and ''!=age">
+                AND age=#{age}
+            </if>
+        </trim>
+        ;
+    </select>
+
+
+
+</mapper>
+
+
+

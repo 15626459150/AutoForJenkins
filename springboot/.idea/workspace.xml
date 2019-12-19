@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ee178571-db66-439c-9dd5-2ea1edc388b2" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="springboot" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="alwaysUpdateSnapshots" value="true" />
+        <option name="localRepository" value="C:\Users\15626\.m2\repository" />
+        <option name="userSettingsFile" value="C:\Users\15626\.m2\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="vmOptions" value="-Xms128m -Xmx512m -Duser.language=zh -Dfile.encoding=UTF-8" />
+  </component>
+  <component name="ProjectId" id="1Q2FkmokE0a0iSadujjkFOS3A9H" />
+  <component name="PropertiesComponent">
+    <property name="ExpandSpringBootJavaOptionsPanel" value="true" />
+    <property name="ExpandSpringBootSpringBootSettingsPanel" value="false" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\15626\Desktop\IdeaProjects\springboot\IntefaceDev\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="TestNG.C:/Users/15626/Desktop/IdeaProjects/springboot/com.course.suntest/src/main/resources/testng.xml">
+    <configuration name="IntefaceDev" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="com.course.Application" />
+      <module name="IntefaceDev" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Springboot" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="com.course.springboot.springboot1" />
+      <module name="springboot" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Mybatis" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true">
+      <module name="mybatis" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.course.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.course.Application" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="MakeNoErrorCheck" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C:/Users/15626/Desktop/IdeaProjects/springboot/AutoTest-master/SunTest/src/main/resources/testng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="springboot" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/AutoTest-master/SunTest/src/main/resources/testng.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C:/Users/15626/Desktop/IdeaProjects/springboot/com.course.suntest/src/main/resources/testng.xml" type="TestNG" nameIsGenerated="true">
+      <module name="suntest" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/com.course.suntest/src/main/resources/testng.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Springboot" />
+      <item itemvalue="Application.IntefaceDev" />
+      <item itemvalue="Spring Boot.Mybatis" />
+      <item itemvalue="TestNG.C:/Users/15626/Desktop/IdeaProjects/springboot/com.course.suntest/src/main/resources/testng.xml" />
+      <item itemvalue="TestNG.C:/Users/15626/Desktop/IdeaProjects/springboot/AutoTest-master/SunTest/src/main/resources/testng.xml" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.C:/Users/15626/Desktop/IdeaProjects/springboot/AutoTest-master/SunTest/src/main/resources/testng.xml" />
+        <item itemvalue="Spring Boot.Mybatis" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ee178571-db66-439c-9dd5-2ea1edc388b2" name="Default Changelist" comment="" />
+      <created>1566960929882</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1566960929882</updated>
+      <workItem from="1566960932910" duration="467000" />
+      <workItem from="1567585049099" duration="5355000" />
+      <workItem from="1567590836282" duration="1829000" />
+      <workItem from="1567598226689" duration="40266000" />
+      <workItem from="1567736091494" duration="4245000" />
+      <workItem from="1567994657044" duration="4044000" />
+      <workItem from="1568798297395" duration="2653000" />
+      <workItem from="1568859831354" duration="2332000" />
+      <workItem from="1568873977868" duration="2733000" />
+      <workItem from="1568879754399" duration="6612000" />
+      <workItem from="1568888986669" duration="409000" />
+      <workItem from="1572662782912" duration="7628000" />
+      <workItem from="1572749471158" duration="7647000" />
+      <workItem from="1572769249853" duration="11404000" />
+      <workItem from="1573092568872" duration="597000" />
+      <workItem from="1573117184212" duration="2444000" />
+      <workItem from="1576151822774" duration="1508000" />
+      <workItem from="1576657849574" duration="1130000" />
+      <workItem from="1576659137653" duration="34016000" />
+      <workItem from="1576754427248" duration="749000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/usermanage/src/main/java/com/course/cases/GetUserListTest.java</url>
+          <line>26</line>
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/com.course.suntest/src/main/java/com/course/cases/GetUserListCase.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="46" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="TestNG">
+        <watch expression="result" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>

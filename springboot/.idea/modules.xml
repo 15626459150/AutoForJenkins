@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/IntefaceDev/IntefaceDev.iml" filepath="$PROJECT_DIR$/IntefaceDev/IntefaceDev.iml" />
+      <module fileurl="file://$PROJECT_DIR$/immoc/immoc.iml" filepath="$PROJECT_DIR$/immoc/immoc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../jmeterdemo/jmeterdemo.iml" filepath="$PROJECT_DIR$/../jmeterdemo/jmeterdemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mybatis/mybatis.iml" filepath="$PROJECT_DIR$/mybatis/mybatis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot.iml" filepath="$PROJECT_DIR$/springboot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com.course.suntest/suntest.iml" filepath="$PROJECT_DIR$/com.course.suntest/suntest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/usermanage/usermanage.iml" filepath="$PROJECT_DIR$/usermanage/usermanage.iml" />
+    </modules>
+  </component>
+</project>
