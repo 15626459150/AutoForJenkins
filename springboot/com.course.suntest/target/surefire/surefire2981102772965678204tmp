@@ -1,5 +1,5 @@
 #surefire
-#Thu Dec 19 16:44:08 CST 2019
+#Sat Dec 28 16:00:48 CST 2019
 classPathUrl.61=C\:\\Users\\15626\\.m2\\repository\\io\\springfox\\springfox-core\\2.6.1\\springfox-core-2.6.1.jar
 classPathUrl.60=C\:\\Users\\15626\\.m2\\repository\\io\\springfox\\springfox-spi\\2.6.1\\springfox-spi-2.6.1.jar
 useSystemClassLoader=true
@@ -16,7 +16,7 @@ classPathUrl.51=C\:\\Users\\15626\\.m2\\repository\\org\\springframework\\spring
 classPathUrl.50=C\:\\Users\\15626\\.m2\\repository\\org\\springframework\\spring-web\\5.0.4.RELEASE\\spring-web-5.0.4.RELEASE.jar
 dirscanner.0=directoryScannerOptions
 classPathUrl.49=C\:\\Users\\15626\\.m2\\repository\\org\\jboss\\logging\\jboss-logging\\3.3.2.Final\\jboss-logging-3.3.2.Final.jar
-testng.test.classpath=C\:\\Users\\15626\\Desktop\\IdeaProjects\\springboot\\com.course.suntest\\target\\test-classes
+testng.test.classpath=C\:\\Users\\15626\\muke\\AutoForJenkins\\springboot\\com.course.suntest\\target\\test-classes
 classPathUrl.48=C\:\\Users\\15626\\.m2\\repository\\javax\\validation\\validation-api\\2.0.1.Final\\validation-api-2.0.1.Final.jar
 classPathUrl.47=C\:\\Users\\15626\\.m2\\repository\\org\\hibernate\\validator\\hibernate-validator\\6.0.7.Final\\hibernate-validator-6.0.7.Final.jar
 classPathUrl.46=C\:\\Users\\15626\\.m2\\repository\\org\\apache\\tomcat\\embed\\tomcat-embed-websocket\\8.5.28\\tomcat-embed-websocket-8.5.28.jar
@@ -46,8 +46,8 @@ classPathUrl.33=C\:\\Users\\15626\\.m2\\repository\\javax\\annotation\\javax.ann
 classPathUrl.32=C\:\\Users\\15626\\.m2\\repository\\org\\slf4j\\jul-to-slf4j\\1.7.25\\jul-to-slf4j-1.7.25.jar
 classPathUrl.31=C\:\\Users\\15626\\.m2\\repository\\org\\apache\\logging\\log4j\\log4j-api\\2.10.0\\log4j-api-2.10.0.jar
 classPathUrl.30=C\:\\Users\\15626\\.m2\\repository\\org\\apache\\logging\\log4j\\log4j-to-slf4j\\2.10.0\\log4j-to-slf4j-2.10.0.jar
-testSuiteDefinitionTestSourceDirectory=C\:\\Users\\15626\\Desktop\\IdeaProjects\\springboot\\com.course.suntest\\src\\test\\java
-reportsDirectory=C\:\\Users\\15626\\Desktop\\IdeaProjects\\springboot\\com.course.suntest\\target\\surefire-reports
+testSuiteDefinitionTestSourceDirectory=C\:\\Users\\15626\\muke\\AutoForJenkins\\springboot\\com.course.suntest\\src\\test\\java
+reportsDirectory=C\:\\Users\\15626\\muke\\AutoForJenkins\\springboot\\com.course.suntest\\target\\surefire-reports
 classPathUrl.29=C\:\\Users\\15626\\.m2\\repository\\ch\\qos\\logback\\logback-core\\1.2.3\\logback-core-1.2.3.jar
 classPathUrl.28=C\:\\Users\\15626\\.m2\\repository\\ch\\qos\\logback\\logback-classic\\1.2.3\\logback-classic-1.2.3.jar
 classPathUrl.27=C\:\\Users\\15626\\.m2\\repository\\org\\springframework\\boot\\spring-boot-starter-logging\\2.0.0.RELEASE\\spring-boot-starter-logging-2.0.0.RELEASE.jar
@@ -66,8 +66,8 @@ classPathUrl.5=C\:\\Users\\15626\\.m2\\repository\\org\\json\\json\\20170516\\js
 classPathUrl.4=C\:\\Users\\15626\\.m2\\repository\\commons-codec\\commons-codec\\1.11\\commons-codec-1.11.jar
 classPathUrl.3=C\:\\Users\\15626\\.m2\\repository\\org\\apache\\httpcomponents\\httpcore\\4.4.9\\httpcore-4.4.9.jar
 classPathUrl.2=C\:\\Users\\15626\\.m2\\repository\\org\\apache\\httpcomponents\\httpclient\\4.1.2\\httpclient-4.1.2.jar
-classPathUrl.1=C\:\\Users\\15626\\Desktop\\IdeaProjects\\springboot\\com.course.suntest\\target\\classes
-classPathUrl.0=C\:\\Users\\15626\\Desktop\\IdeaProjects\\springboot\\com.course.suntest\\target\\test-classes
+classPathUrl.1=C\:\\Users\\15626\\muke\\AutoForJenkins\\springboot\\com.course.suntest\\target\\classes
+classPathUrl.0=C\:\\Users\\15626\\muke\\AutoForJenkins\\springboot\\com.course.suntest\\target\\test-classes
 isTrimStackTrace=true
 classPathUrl.19=C\:\\Users\\15626\\.m2\\repository\\org\\apache\\httpcomponents\\httpmime\\4.5.5\\httpmime-4.5.5.jar
 classPathUrl.18=C\:\\Users\\15626\\.m2\\repository\\com\\aventstack\\extentreports\\3.0.6\\extentreports-3.0.6.jar
@@ -75,7 +75,7 @@ classPathUrl.17=C\:\\Users\\15626\\.m2\\repository\\com\\google\\guava\\guava\\2
 classPathUrl.16=C\:\\Users\\15626\\.m2\\repository\\com\\vimalselvam\\testng-extentsreport\\1.3.1\\testng-extentsreport-1.3.1.jar
 classPathUrl.15=C\:\\Users\\15626\\.m2\\repository\\org\\mongodb\\bson\\3.2.2\\bson-3.2.2.jar
 classPathUrl.14=C\:\\Users\\15626\\.m2\\repository\\org\\mongodb\\mongodb-driver-core\\3.2.2\\mongodb-driver-core-3.2.2.jar
-testSuiteXmlFiles0=C\:\\Users\\15626\\Desktop\\IdeaProjects\\springboot\\com.course.suntest\\src\\main\\resources\\testng.xml
+testSuiteXmlFiles0=C\:\\Users\\15626\\muke\\AutoForJenkins\\springboot\\com.course.suntest\\src\\main\\resources\\testng.xml
 classPathUrl.13=C\:\\Users\\15626\\.m2\\repository\\org\\mongodb\\mongodb-driver\\3.2.2\\mongodb-driver-3.2.2.jar
 classPathUrl.12=C\:\\Users\\15626\\.m2\\repository\\org\\freemarker\\freemarker\\2.3.27-incubating\\freemarker-2.3.27-incubating.jar
 useManifestOnlyJar=true

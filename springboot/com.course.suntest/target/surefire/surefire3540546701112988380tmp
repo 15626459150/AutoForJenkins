@@ -1,0 +1,5 @@
+#surefire
+#Sat Dec 28 16:00:48 CST 2019
+user.dir=C\:\\Users\\15626\\muke\\AutoForJenkins\\springboot\\com.course.suntest
+localRepository=C\:\\Users\\15626\\.m2\\repository
+basedir=C\:\\Users\\15626\\muke\\AutoForJenkins\\springboot\\com.course.suntest
